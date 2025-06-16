@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+fasttext
+PyMuPDF
+deep-translator
+python-docx
+reportlab
