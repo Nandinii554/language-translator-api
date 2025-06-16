@@ -31,8 +31,18 @@ Choose from a variety of output formats to best suit your downstream application
 
 ---
 
-Let me know if you’d like to include:
-- A usage flow diagram or sequence chart
-- Performance benchmarks
-- Background on why FastText was chosen over alternatives
-- Docker deployment instructions
+## 🖼️ Screenshots
+
+### 1. 🌐 API User Interface (Swagger UI)
+
+Below is the screenshot of the interactive FastAPI Swagger UI used to test the `/translate-pdf` endpoint:
+
+![image](https://github.com/user-attachments/assets/9010ec1e-cdb2-4d98-9b09-21d2433837ce)
+
+---
+
+### 2. 📄 Translated PDF Output (Example: French)
+
+Here is a sample of a translated PDF output with content converted from English to French:
+
+![Screenshot 2025-06-16 at 6 31 29 PM](https://github.com/user-attachments/assets/38a1c1c6-a94a-4973-a3f8-00609dd9c123)
